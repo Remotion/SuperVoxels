@@ -8,3 +8,5 @@ Internally it is using and extending powerful OpenVDB library.
 
 ### UVW coordinates transfer. 
 ![supervoxels_uvw_transfer](https://cloud.githubusercontent.com/assets/3511547/6782600/6df256a8-d175-11e4-99a3-72f0c2f2a67c.jpg)
+
+#### Not Open Sourced for Now.
